@@ -5,6 +5,9 @@
 #eg2{
 	background-color: blue
 }
+td{
+	border: 1px solid black;
+}
 .middle{
 	border: 1px solid black;
 	sapcing:1px;
